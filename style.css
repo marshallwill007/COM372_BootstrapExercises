@@ -5,3 +5,7 @@ img{
 p{
   float: left;
 }
+
+a{
+  list-style: none;
+}
