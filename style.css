@@ -9,3 +9,7 @@ p{
 a{
   list-style: none;
 }
+
+.danger{
+  color: red;
+}
